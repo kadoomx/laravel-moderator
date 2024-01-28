@@ -1,0 +1,18 @@
+{
+    "name": "kadoomx/moderator",
+    "description": "Laravel plugin to allow easy permissions setup",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Kadoomx\\Moderator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Osvaldo Garcia",
+            "email": "aoga88@gmail.com"
+        }
+    ],
+    "require": {}
+}
