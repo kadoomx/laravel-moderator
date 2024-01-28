@@ -14,5 +14,7 @@
             "email": "aoga88@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "laravel/framework": "^10.42"
+    }
 }
